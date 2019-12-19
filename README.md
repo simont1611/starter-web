@@ -17,3 +17,7 @@ Some Deployment notes
 ## How To Contribute
 
 Finally some contribution text
+
+## Copyright
+
+Me 2019
