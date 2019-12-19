@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Simon Thomas	simon.thomas@paygate.uk @simont1611
 
 # THANKS
 
